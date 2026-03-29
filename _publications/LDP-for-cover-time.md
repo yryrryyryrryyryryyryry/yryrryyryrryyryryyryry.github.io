@@ -9,7 +9,7 @@ abstract: >-
 cover: /assets/images/covers/cover-LDP-RW.png
 authors:
   - Xinyi Li
-  - J. Shi
+  - Jialu Shi
   - Qiheng Xu
 links:
   arxiv: https://arxiv.org/abs/2411.16398
