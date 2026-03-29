@@ -8,10 +8,10 @@ abstract: >-
 Cover image is borrowed from the Shuffling page of Wikipedia. We establish cutoff for riffle shuffles with general pile size distribution, identifying the two factors determining the cutoff time: an abnormally long increasing substring in the inversed shuffle, and "cold spot" introduced in [Lalley, Ann. Appl. Probab. (2000)]
 cover: /assets/images/covers/cover1.jpg
 authors:
-- Mark Sellke
-- Your Name
-- Jiamin Wang
+  - Mark Sellke
+  - Your Name
+  - Jiamin Wang
 links:
-arxiv: https://arxiv.org/abs/2510.22783
-pdf: https://arxiv.org/pdf/2510.22783
+  arxiv: https://arxiv.org/abs/2510.22783
+  pdf: https://arxiv.org/pdf/2510.22783
 ---
