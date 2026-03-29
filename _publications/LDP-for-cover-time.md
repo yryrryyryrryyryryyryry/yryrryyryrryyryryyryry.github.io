@@ -1,5 +1,5 @@
 ---
-title: "Large Deviations of Cover Time of Tori in Dimensions d \geq 3"
+title: "Large Deviations of Cover Time of Tori in Dimensions {$d \geq 3$}"
 date: 2025-07-17 16:13:08 +0000
 selected: true
 pub: "Preprint"
