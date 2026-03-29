@@ -9,7 +9,7 @@ abstract: >-
 cover: /assets/images/covers/Riffle_shuffle.gif
 authors:
 - Mark Sellke
-- J. Shi
+- Jialu Shi
 - Jiamin Wang
 links:
   arxiv: https://arxiv.org/abs/2510.22783
