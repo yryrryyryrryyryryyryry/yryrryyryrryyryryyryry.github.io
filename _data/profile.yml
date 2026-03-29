@@ -27,7 +27,7 @@ short_bio: >-
   </p>
   <p>
     My research interests lie in probability theory and statistical physics, especially in discrete settings. 
-    Currently, I am working on some models in higher dimensions, e.g. Gaussian Free Field and Random Interlacements.
+    Currently, I am working on models in higher dimensions, e.g. Gaussian Free Field and Random Interlacements.
   </p>
 
 portrait_url: /assets/images/photos/portrait_js.jpg
@@ -50,7 +50,11 @@ experience:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+  date: Mar. 2024 - Jul. 2025
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: Visiting Student
+  date: Sep. 2025 - Dec. 2025
 
 awards:
 - name: Award Name 2
