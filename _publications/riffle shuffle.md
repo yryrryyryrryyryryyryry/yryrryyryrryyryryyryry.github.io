@@ -9,7 +9,7 @@ abstract: >-
 cover: /assets/images/covers/cover1.jpg
 authors:
 - Mark Sellke
-- Your Name
+- J. Shi
 - Jiamin Wang
 links:
   arxiv: https://arxiv.org/abs/2510.22783
