@@ -1,22 +1,18 @@
-"Your Name":
+"J. Shi":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Xinyi Li":
+  name: Xinyi Li
+  url: http://faculty.bicmr.pku.edu.cn/~xinyili/
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Qiheng Xu":
+  name: Qiheng Xu
+  url: https://stat.uchicago.edu/people/profile/qiheng-xu/
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
-
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
-
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
-
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Jiamin Wang":
+  name: Jiamin Wang
+  url: https://www.math.princeton.edu/people/jiamin-wang
+  
+"Mark Sellke":
+  name: Mark Sellke
+  url: https://msellke.com
