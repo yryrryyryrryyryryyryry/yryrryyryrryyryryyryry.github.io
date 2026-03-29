@@ -35,10 +35,10 @@ portrait_url: /assets/images/photos/portrait_js.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Cambridge
+  logo: /assets/images/badges/Cam_badge.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Pure Mathematics and Mathematical Statistics <br/>
     Ph.D. Student
   date: Feb. 2026 - present
 - name: Peking University
