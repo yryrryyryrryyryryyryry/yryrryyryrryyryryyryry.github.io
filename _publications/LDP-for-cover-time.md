@@ -2,7 +2,7 @@
 title: "Large Deviations of Cover Time of Tori in Dimensions d geq 3"
 date: 2025-07-17 16:13:08 +0000
 selected: true
-pub: "Preprint"
+pub: "arXiv Preprint"
 pub_date: "2025"
 abstract: >-
   We studied the large deviation principle for the cover time of random walk on torus in dimensions higher than 3. In particular, we derive sharp asymptotics in given phase, using the strong coupling developed in [Prévost-Rodriguez-Sousi, arXiv:2309.03192].
