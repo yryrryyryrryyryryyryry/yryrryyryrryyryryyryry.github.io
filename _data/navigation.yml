@@ -8,5 +8,5 @@ pages:
 #   url: /index_layout2
 - name: Research
   url: /publications
-- name: Showcase
-  url: /showcase
+# - name: Showcase
+#  url: /showcase
